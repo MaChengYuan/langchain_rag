@@ -4,10 +4,6 @@
 
 1. Project Description
 2. Technologies
-3. Files Description
-4. Setup
-5. Potential development
-6. Licensing and Authors
 
 ## Project Description
 The notebook aims at showcase of intellectual system with langchain framework. It show complete workflow of retrival augmentation generation from data-retrieval of outer resource, rarank, prompting to response generation. 
