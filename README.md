@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. Project Description
-2. Reason
+2. Reason and Motivation
 3. Technologies
 
 ## Project Description
